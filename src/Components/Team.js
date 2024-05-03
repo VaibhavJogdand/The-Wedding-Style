@@ -82,7 +82,7 @@ function Team() {
 					<Grid item xs={12} sm={4}>
 						<ImageContainer>
 							<img
-								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41fqAhl8dF9IIom_NZru8NWAqPIk-u11--Q&s"
+								src="https://img.freepik.com/premium-photo/man-photographer-with-camera-takes-photo-dark_169016-17160.jpg?w=360"
 								alt="Person"
 								style={{ width: "250px", height: "300px", objectFit: "cover" }}
 							/>
@@ -95,7 +95,7 @@ function Team() {
 					<Grid item xs={12} sm={4}>
 						<ImageContainer>
 							<img
-								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSivDog-43Sy4MYeGBFksIMigIkd8zMKEfCeg&s"
+								src="https://img.freepik.com/free-photo/man-with-camera_23-2147689324.jpg?t=st=1714763821~exp=1714767421~hmac=4e6b45d5ba9482d01dc7f7153b4e88a896b29536d13d6cc4e1ed9762f4c2e1fd&w=360"
 								alt="Person"
 								style={{ width: "250px", height: "300px", objectFit: "cover" }}
 							/>
@@ -108,7 +108,7 @@ function Team() {
 					<Grid item xs={12} sm={4}>
 						<ImageContainer>
 							<img
-								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4O1jhMmbO6a6gBhQBmeDP-Pa5gjap0HnbSw&s"
+								src="https://img.freepik.com/free-photo/young-asian-man-with-camera-isolated-white-background-photographer-concept_231208-3767.jpg?t=st=1714763773~exp=1714767373~hmac=8ef804bbf8bceb0a402350d316e80a15a392d1cc0ad3554e46739a0c66b6b88a&w=996"
 								alt="Person"
 								style={{ width: "250px", height: "300px", objectFit: "cover" }}
 							/>

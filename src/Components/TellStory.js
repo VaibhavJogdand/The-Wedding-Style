@@ -27,7 +27,14 @@ function TellStory() {
 					</Typography>
 					<Button
 						variant="contained"
-						sx={{ mt: 6, borderRadius: "0", color: "#fff", px: 10, py: 1 }}
+						sx={{
+							mt: 6,
+							borderRadius: "0",
+							color: "#fff",
+							px: 10,
+							py: 1,
+							textWrap: "nowrap",
+						}}
 					>
 						WRITE HERE
 					</Button>
