@@ -1,15 +1,15 @@
 const Gallery = [
 	[
-		"https://images.pexels.com/photos/13021558/pexels-photo-13021558.jpeg?auto=compress&cs=tinysrgb&w=600",
-		"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrbqqP5IP2DYwJLmGTRKMTNqKka6ZPyFHFKFPsD-gNA&s",
-		"https://images.pexels.com/photos/6056423/pexels-photo-6056423.jpeg?auto=compress&cs=tinysrgb&w=600",
-		"https://images.pexels.com/photos/6624612/pexels-photo-6624612.jpeg?auto=compress&cs=tinysrgb&w=600",
-		"https://images.pexels.com/photos/10092395/pexels-photo-10092395.jpeg?auto=compress&cs=tinysrgb&w=600",
+		"https://kamatharjun.b-cdn.net/wp-content/uploads/2023/06/Prewedding-Photoshoot-Priyanka-Prito-21.jpg",
+		"https://kamatharjun.com/wp-content/uploads/2019/08/tejaswini-2.jpeg",
+		"https://kamatharjun.com/wp-content/uploads/2018/04/0059-1.jpg",
+		"https://images.unsplash.com/photo-1631621583126-ed10a80f62b1?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJlJTIwd2VkZGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+		"https://www.weddingsutra.com/images/prewed_shoots_15.jpg",
 		"https://5.imimg.com/data5/ZK/AE/PL/SELLER-63568113/pre-wedding-shoot-500x500.jpg",
 		"https://i.pinimg.com/736x/95/21/b8/9521b815fd7c3c22df7f409636576a5e.jpg",
 		"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-iZrHd89cohxTK3LrsEcrZQ1VD4ksFfJp2RxnUBgbLw&s",
 		"https://antphotography.in/wp-content/uploads/2022/04/35799584-c0c1-4b62-99af-5143537b51f0_rw_600.jpg",
-		"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1wq9STf11YzS2TUVWIxImJqi3TUAy1kCjVslr1SiVrA&s",
+		"https://i.pinimg.com/originals/e8/3d/06/e83d066b790c10d3a587b412f8eeab45.jpg",
 	],
 	[
 		"https://i.pinimg.com/564x/52/4a/94/524a94ebaa343694c092d826a70b7d8f.jpg",

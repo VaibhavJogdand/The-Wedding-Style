@@ -78,7 +78,7 @@ function Team() {
 					since the 1500s, when{" "}
 				</Typography>
 
-				<Grid container spacing={isMobile ? 0 : 2} sx={{ mt: 5 }}>
+				<Grid container spacing={2} sx={{ mt: 5 }}>
 					<Grid item xs={12} sm={4}>
 						<ImageContainer>
 							<img
